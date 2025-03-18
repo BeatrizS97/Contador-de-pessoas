@@ -13,8 +13,11 @@ O aplicativo **"Contador de Pessoas"** foi desenvolvido para permitir o controle
 ## 🎯 Funcionalidades
 
 ✅ **Contador de Pessoas**: Permite adicionar e remover pessoas conforme necessário.
+
 ✅ **Exibição do Nome da Loja**: Nome personalizado da loja é exibido na interface.
+
 ✅ **Alerta Automático**: Exibe um alerta sempre que o número de pessoas for atualizado.
+
 ✅ **Interface Responsiva**: Layout agradável e adaptável a diferentes dispositivos.
 
 ---
