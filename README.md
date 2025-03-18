@@ -1,4 +1,4 @@
-# 📱 Contador de Pessoas - App Expo Snack
+# Contador de Pessoas - App Expo Snack
 
 Este aplicativo foi o segundo desenvolvido no **Expo Snack** como parte da disciplina de **Desenvolvimento Mobile** da **FATEC PG - Tarde**. O objetivo deste projeto foi criar um aplicativo simples e funcional para contar o número de pessoas em uma loja de maneira interativa e intuitiva.
 
@@ -12,13 +12,10 @@ O aplicativo **"Contador de Pessoas"** foi desenvolvido para permitir o controle
 
 ## 🎯 Funcionalidades
 
-✅ **Contador de Pessoas**: Permite adicionar e remover pessoas conforme necessário.
-
-✅ **Exibição do Nome da Loja**: Nome personalizado da loja é exibido na interface.
-
-✅ **Alerta Automático**: Exibe um alerta sempre que o número de pessoas for atualizado.
-
-✅ **Interface Responsiva**: Layout agradável e adaptável a diferentes dispositivos.
+- **Contador de Pessoas**: Permite adicionar e remover pessoas conforme necessário.
+- **Exibição do Nome da Loja**: Nome personalizado da loja é exibido na interface.
+- **Alerta Automático**: Exibe um alerta sempre que o número de pessoas for atualizado.
+- **Interface Responsiva**: Layout agradável e adaptável a diferentes dispositivos.
 
 ---
 
