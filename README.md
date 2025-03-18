@@ -30,9 +30,9 @@ O aplicativo **"Contador de Pessoas"** foi desenvolvido para permitir o controle
 
 ## 🔮 Próximos Passos
 
-🔹 **Aprimoramento da Interface**: Melhorar o design com animações e uma experiência de usuário mais moderna.
-🔹 **Persistência de Dados**: Implementar armazenamento local para manter o contador mesmo após o fechamento do app.
-🔹 **Personalização da Loja**: Permitir que o usuário defina o nome da loja e personalize cores e estilos.
+ - **Aprimoramento da Interface**: Melhorar o design com animações e uma experiência de usuário mais moderna.
+ -  **Persistência de Dados**: Implementar armazenamento local para manter o contador mesmo após o fechamento do app.
+ - **Personalização da Loja**: Permitir que o usuário defina o nome da loja e personalize cores e estilos.
 
 ---
 
